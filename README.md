@@ -1,0 +1,2 @@
+# CrashHandlerAndEmailDemo
+android 捕捉崩溃日志并发送至邮箱的demo
